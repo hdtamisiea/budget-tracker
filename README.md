@@ -33,7 +33,7 @@ View walkthrough video here:
 No video provided.
 
 Deployed site can be viewed at: 
-[No deployed link provided.]
+[https://safe-badlands-18766.herokuapp.com/]
 
 Provide any instructions and/or examples for use:
 No instructions or examples provided.
